@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Digital",
+  "description": "A modern, professional digital agency and business website featuring comprehensive services, portfolio showcases, testimonials, interactive contact forms, and client portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
